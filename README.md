@@ -86,11 +86,14 @@
 
 <br/><br/>
 <hr/>
-
+<div id="joke-container" align="center">
+      
 <h2 align="center">😂Here is a random joke that'll make you laugh!😂 </h2>
-<a href="https://official-joke-api.appspot.com/random_joke" alt="random joke">Link to Random Joke</a>
 
-<!-- <a href="https://official-joke-api.appspot.com/random_joke" alt="random joke"><a/> -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+
 <br/><br/>
 <hr/>
 

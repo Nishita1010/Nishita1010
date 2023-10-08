@@ -88,7 +88,9 @@
 <hr/>
 
 <h2 align="center">😂Here is a random joke that'll make you laugh!😂 </h2>
-<a href="https://official-joke-api.appspot.com/random_joke" alt="random joke"><a/>
+<a href="https://official-joke-api.appspot.com/random_joke" alt="random joke">Link to Random Joke</a>
+
+<!-- <a href="https://official-joke-api.appspot.com/random_joke" alt="random joke"><a/> -->
 <br/><br/>
 <hr/>
 

@@ -67,8 +67,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    
-![Snake Eating Contributions](https://raw.githubusercontent.com/nishita1010/nishita1010/output/github-contribution-grid-snake.svg)
+   
+![snake gif](https://github.com/Nishita1010/Nishita1010/blob/output/github-contribution-grid-snake.gif)
+
+
+
 
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nishita1010/nishita1010/output/github-contribution-grid-snake.svg" /> -->
   

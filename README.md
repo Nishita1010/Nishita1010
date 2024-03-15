@@ -67,8 +67,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   
-![snake gif](https://github.com/Nishita1010/Nishita1010/blob/output/github-contribution-grid-snake.gif)
+   ![gitartwork](gitartwork.svg)
+<!--![snake gif](https://github.com/Nishita1010/Nishita1010/blob/output/github-contribution-grid-snake.gif)-->
 
 
 

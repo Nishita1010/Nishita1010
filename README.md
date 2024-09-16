@@ -44,7 +44,7 @@
 
 <h4 align="center">Front-End Development</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,nodejs,react" /><br>
 </div>
 
 <h4 align="center">AI/ML</h4>
@@ -54,7 +54,7 @@
 
 <h4 align="center">Database & BDA</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kafka,mysql" /><br>  <!-- hadoop,hive-->
+    <img src="https://skillicons.dev/icons?i=kafka,mysql,mongoDB" /><br>  <!-- hadoop,hive-->
 </div>
 
 <h4 align="center">Others</h4>

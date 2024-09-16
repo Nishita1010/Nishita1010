@@ -39,7 +39,7 @@
 <br/>
 <h4 align="center">Programming-Languages</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java" /><br>
 </div>
 
 <h4 align="center">Front-End Development</h4>
